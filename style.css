@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.main__div{
+    background-color: #14181E;
+   display: block;
+   color: white;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+#cel,#fah{
+    padding: 15px;
+}
+.input-container{
+    font-size: 20px;
+    font-weight: bold;
+}
